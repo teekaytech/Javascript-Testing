@@ -1,3 +1,12 @@
+[contributors-shield]: https://img.shields.io/github/contributors/teekaytech/Javascript-Testing.svg?style=flat-square
+[contributors-url]: https://github.com/teekaytech/Javascript-Testing/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/teekaytech/Javascript-Testing.svg?style=flat-square
+[forks-url]: https://github.com/teekaytech/Javascript-Testing/network/members
+[stars-shield]: https://img.shields.io/github/stars/teekaytech/Javascript-Testing.svg?style=flat-square
+[stars-url]: https://github.com/teekaytech/Javascript-Testing/stargazers
+[issues-shield]: https://img.shields.io/github/issues/teekaytech/Javascript-Testing.svg?style=flat-square
+[issues-url]: https://github.com/teekaytech/Javascript-Testing/issues
+
 # Javascript-Testing
 
 > This project is aimed at getting comfortable with Testing in JavaScript, using Jest. The project consists of random modules and their test files. Pure ES6 is used with Webpack.
