@@ -1,0 +1,28 @@
+{
+  "name": "javascript_testing",
+  "version": "1.0.0",
+  "description": "This project is aimed at getting comfortable with Testing in JavaScript, using Jest. The project consists of random modules and their test files. Pure ES6 is used with Webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teekaytech/Javascript-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teekaytech/Javascript-Testing/issues"
+  },
+  "homepage": "https://github.com/teekaytech/Javascript-Testing#readme",
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
