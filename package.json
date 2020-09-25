@@ -9,6 +9,9 @@
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open"
   },
+  "jest": {
+    "verbose": true
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/teekaytech/Javascript-Testing.git"
@@ -21,9 +24,10 @@
   },
   "homepage": "https://github.com/teekaytech/Javascript-Testing#readme",
   "devDependencies": {
-    "webpack-dev-server": "^3.11.0",
+    "@babel/preset-env": "^7.11.5",
     "jest": "^26.4.2",
     "webpack": "^4.44.2",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
   }
 }
