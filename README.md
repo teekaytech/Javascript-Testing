@@ -1,11 +1,8 @@
-[contributors-shield]: https://img.shields.io/github/contributors/teekaytech/Javascript-Testing.svg?style=flat-square
-[contributors-url]: https://github.com/teekaytech/Javascript-Testing/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/teekaytech/Javascript-Testing.svg?style=flat-square
-[forks-url]: https://github.com/teekaytech/Javascript-Testing/network/members
-[stars-shield]: https://img.shields.io/github/stars/teekaytech/Javascript-Testing.svg?style=flat-square
-[stars-url]: https://github.com/teekaytech/Javascript-Testing/stargazers
-[issues-shield]: https://img.shields.io/github/issues/teekaytech/Javascript-Testing.svg?style=flat-square
-[issues-url]: https://github.com/teekaytech/Javascript-Testing/issues
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
 # Javascript-Testing
 
@@ -72,3 +69,12 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
+
+[contributors-shield]: https://img.shields.io/github/contributors/teekaytech/Javascript-Testing.svg?style=flat-square
+[contributors-url]: https://github.com/teekaytech/Javascript-Testing/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/teekaytech/Javascript-Testing.svg?style=flat-square
+[forks-url]: https://github.com/teekaytech/Javascript-Testing/network/members
+[stars-shield]: https://img.shields.io/github/stars/teekaytech/Javascript-Testing.svg?style=flat-square
+[stars-url]: https://github.com/teekaytech/Javascript-Testing/stargazers
+[issues-shield]: https://img.shields.io/github/issues/teekaytech/Javascript-Testing.svg?style=flat-square
+[issues-url]: https://github.com/teekaytech/Javascript-Testing/issues
