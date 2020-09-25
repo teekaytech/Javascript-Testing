@@ -4,7 +4,7 @@
   "description": "This project is aimed at getting comfortable with Testing in JavaScript, using Jest. The project consists of random modules and their test files. Pure ES6 is used with Webpack.",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest --watch",
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open"

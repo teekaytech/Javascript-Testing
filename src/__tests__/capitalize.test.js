@@ -1,5 +1,6 @@
 import capitalize from '../modules/capitalize';
 
 test('should capitalize first character', () => {
-  expect(capitalize('hello')).toBe('Hello');
+  expect(capitalize('hello')).toEqual('Hello');
+  expect(capitalize('MICROVERSE')).toBe('MICROVERSE');
 });
